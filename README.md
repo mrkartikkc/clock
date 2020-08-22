@@ -1,1 +1,1 @@
-#Simple CSS style clock.
+# Simple CSS style clock.
